@@ -1869,6 +1869,25 @@
         "source": "github",
         "repo": "tomtastisch/codex-orchestrator"
       }
+    },
+    {
+      "name": "travel-agent-skill",
+      "description": "私人旅行管家 — 输入目的地一键生成HTML旅行攻略",
+      "version": "3.1.0",
+      "author": {
+        "name": "萧钰瑶 (XiaoiYuyao)",
+        "url": "https://github.com/XiaoiYuyao"
+      },
+      "repository": "https://github.com/XiaoiYuyao/travel-agent-skill",
+      "license": "MIT",
+      "keywords": [
+        "travel",
+        "travel-planner",
+        "itinerary",
+        "攻略"
+      ],
+      "category": "productivity",
+      "source": "https://github.com/XiaoiYuyao/travel-agent-skill"
     }
   ]
 }
